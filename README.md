@@ -1,16 +1,14 @@
-### Hi there 👋
+```java
 
-<!--
-**beinsaduno/beinsaduno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+package gitHub.beinsaDuno.todorKrastev
 
-Here are some ideas to get you started:
+public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversity {
+    private static final String aboutMe =
+            "Languages: Java(Advanced), JavaScript(Fundamentals), C++(Basics)" +
+                    "Skills: OOP & SOLID, Data Structures & Algorithms" +
+                    "Education: Student @SoftUni";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public TodorKrastev() {
+        super(aboutMe);
+    }
+}
