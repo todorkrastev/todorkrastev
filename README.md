@@ -7,7 +7,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
             "Technologies: Java (advanced), JavaScript (advanced), C++ (basics), Python (basics), SQL, HTML, CSS" +
                     "Skills: OOP & SOLID, Data Structures & Algorithms" +
                     "Education: Student at Software University" +
-                    "Interests: Data Science and Algorithm Engineering";
+                    "Interests: Data Science, Algorithms and Algorithm Engineering";
 
     public TodorKrastev() {
         super(ABOUT_ME);
