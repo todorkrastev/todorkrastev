@@ -1,5 +1,4 @@
 ```java
-
 package gitHub.beinsaDuno.todorKrastev
 
 public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversity {
