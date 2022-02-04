@@ -1,5 +1,5 @@
 ```java
-package gitHub.beinsaDuno.todorKrastev
+package gitHub.todorKrastev
 
 public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversity {
     private static final String ABOUT_ME =
