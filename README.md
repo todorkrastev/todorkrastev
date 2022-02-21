@@ -5,7 +5,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
     private static final String ABOUT_ME = """
                 Technologies: Java (advanced), JavaScript (advanced), C++ (basics), Python (basics), SQL, HTML, CSS
                 Skills: OOP & SOLID, Data Structures & Algorithms
-                Education: Student at Software University
+                Education: Software Engineering (studying now), Master of Finance, Bachelor of Economics
                 Interests: Data Science, Algorithms and Algorithm Engineering
                 """;
                 
