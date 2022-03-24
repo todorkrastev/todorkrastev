@@ -6,6 +6,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
                 Technologies: Java (advanced), JavaScript (advanced), C++ (basics), Python (basics), SQL, HTML, CSS
                 Skills: OOP & SOLID, Data Structures & Algorithms
                 Education: Software Engineering (studying now), Master of Finance, Bachelor of Economics
+                Languages: English (C1), German (B2 - studying now), Spanish (B1), Bulgarian (C2)
                 Interests: AI, Algorithms and Algorithm Engineering""";
                 
     public TodorKrastev() {
