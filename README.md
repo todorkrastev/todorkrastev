@@ -1,5 +1,5 @@
 ```java
-package gitHub.todorKrastev
+package io.github.todorkrastev
 
 public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversity {
 
