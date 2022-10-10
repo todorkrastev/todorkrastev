@@ -8,7 +8,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
                 Skills: OOP & SOLID, Data Structures & Algorithms
                 Education: Software Engineering, Master of Finance, Bachelor of Economics
                 Languages: Bulgarian, English, German, Spanish
-                Interests: AI, Algorithms and Algorithm Engineering
+                Interests: AI, Algorithms, and Algorithm Engineering
                 """;
                 
     public TodorKrastev() {
