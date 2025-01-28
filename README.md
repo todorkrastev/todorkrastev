@@ -6,7 +6,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
     private static final String ABOUT_ME = """
                 Tech Stack: Java, Spring, C++, MySQL, Angular, JavaScript, HTML & CSS.
                 Skills: OOP & SOLID, Data Structures & Algorithms.
-                Education: Software Engineering, Master of Finance, and Bachelor of Economics.
+                Education: Diploma in Software Engineering, Master of Finance, and Bachelor of Economics.
                 Languages: Bulgarian, English, German, and Spanish.
                 Interests: AI, Algorithms, and Algorithm Engineering.
                 """;
