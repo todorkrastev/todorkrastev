@@ -6,7 +6,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
     private static final String ABOUT_ME = """
             Tech Stack
                 • Languages: Java, C++, JavaScript, HTML, CSS
-                • Frameworks and Libraries: Spring, Angular, Thymeleaf
+                • Frameworks and Libraries: Spring, JPA/Hibernate, Angular, Thymeleaf
                 • Databases: MySQL
                 • Tools: Git, Docker, Gradle, Maven
             Skills
