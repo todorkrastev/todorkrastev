@@ -13,7 +13,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
                 • OOP and SOLID principles
                 • Data Structures and Algorithms
             Education
-                • Diploma in Software Engineering
+                • Diploma in Java Full-Stack Development
                 • Master of Finance
                 • Bachelor of Economics
             Languages
