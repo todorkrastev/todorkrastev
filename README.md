@@ -5,10 +5,10 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
 
     private static final String ABOUT_ME = """
             Tech Stack
-                • Languages: Java, C++, JavaScript, HTML, CSS
-                • Frameworks and Libraries: Spring, JPA/Hibernate, Angular, Thymeleaf
+                • Languages: Java, C++, JavaScript, HTML, and CSS
+                • Frameworks and Libraries: Spring, JPA/Hibernate, Angular, and Thymeleaf
                 • Databases: MySQL
-                • Tools: Git, Docker, Gradle, Maven
+                • Tools: Git, Docker, Gradle, and Maven
             Skills
                 • OOP and SOLID principles
                 • Data Structures and Algorithms
@@ -17,9 +17,9 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
                 • Master of Finance
                 • Bachelor of Economics
             Languages
-                • Bulgarian, English, German, Spanish
+                • English, German, and Spanish
             Interests
-                • Algorithms, Algorithm Engineering
+                • Algorithms and Algorithm Engineering
                 """;
                 
     public TodorKrastev() {
