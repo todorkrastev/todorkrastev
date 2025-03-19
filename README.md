@@ -19,7 +19,7 @@ public class TodorKrastev extends SoftwareDeveloper implements SoftwareUniversit
             Languages
                 • Bulgarian, English, German, Spanish
             Interests
-                • AI, Algorithms, Algorithm Engineering
+                • Algorithms, Algorithm Engineering
                 """;
                 
     public TodorKrastev() {
